@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>Casading Effect</title>
+    <style>
+        body {
+            background-image: url(https://www.google.com/imgres?q=basketball&imgurl=https%3A%2F%2Fstorage.googleapis.com%2Fpod_public%2F1300%2F180356.jpg&imgrefurl=https%3A%2F%2Fwww.ukposters.co.uk%2Fbasketball-v132615&docid=Ntj_ky_e9ocREM&tbnid=7pFWJCAnfNPlQM&vet=12ahUKEwjEjP-637aJAxVZQUEAHZQsGogQM3oECGoQAA..i&w=1300&h=929&hcb=2&ved=2ahUKEwjEjP-637aJAxVZQUEAHZQsGogQM3oECGoQAA);
+            background-color: #cccccc;
+            background-attachment: fixed;
+            background-position: relative;
+        }
+    </style>
+</head>
+
+<body>
+    <svg width="400" height="400">
+        <polygon points="110,10 50,198 200,78 39,78 170,198" style="fill:orange; stroke:green; stroke-width: 5;
+                fill-rule:evenodd;" />
+        <br>
+        <hr>
+        <svg width="500" height="500">
+            <rect width="400" height="200" style="fill: rgb(0, 0, 200);
+                    stroke-width: 5;
+                stroke:rgb(255, 0, 0);" />
+</body>
+
+</html>
